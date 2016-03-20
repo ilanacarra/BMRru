@@ -2386,8 +2386,8 @@ msgid ""
 "pit, I despair at seeing all of you in this state.  I will make sure Malevan "
 "pays for this!"
 msgstr ""
-"Как бы я ни был счастлив, что ваши души пережили все ужасы песчаной арены, "
-"
+"Хоть я и рад, что ваши души пережили все ужасы песчаной арены, огорчение - "
+"видеть вас в таком состоянии. Малеван за это заплатит!"
 
 #. [message]: speaker=Scarrion
 #: scenarios1/0_03_Unbreakable.cfg:509
@@ -2395,26 +2395,27 @@ msgid ""
 "I think I'm clear of Malevan's slaves. I will make him pay threefold for "
 "what he has done to us!"
 msgstr ""
+"Думаю, я оторвался от слуг Малевана. Он заплатит за то, что сделал с нами!"
 
 #. [message]: speaker=GAltos
 #: scenarios1/0_03_Unbreakable.cfg:513
 msgid "Good luck, Scarrion."
-msgstr ""
+msgstr "Удачи, Скаррион."
 
 #. [message]: speaker=unit
 #: scenarios1/0_03_Unbreakable.cfg:530
 msgid "Why don't I just kill the necromancer..."
-msgstr ""
+msgstr "Может я просто убью некроманта?.."
 
 #. [message]: speaker=Malevan
 #: scenarios1/0_03_Unbreakable.cfg:534
 msgid "Don't be ridiculous!"
-msgstr ""
+msgstr "Не смеши меня!"
 
 #. [message]: speaker=Malevan
 #: scenarios1/0_03_Unbreakable.cfg:557
 msgid "That was a mistake, dear fellow!"
-msgstr ""
+msgstr "Ты совершаешь ошибку, дружок!"
 
 #. [message]: speaker=unit
 #: scenarios1/0_03_Unbreakable.cfg:603
